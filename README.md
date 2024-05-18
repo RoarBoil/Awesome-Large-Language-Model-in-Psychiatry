@@ -35,7 +35,7 @@ We will try our best to make this paper list updated. If you notice some related
 ## **Medical LLMs with psychiatry knowledge**
 
 
-### ***	2024***
+  ### ***2024***
 
 - [Arxiv] *Qilin-med: Multi-stage knowledge injection advanced medical large language model.* [[paper]](https://arxiv.org/abs/2310.09089) [2024.4]
 
