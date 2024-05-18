@@ -20,8 +20,8 @@ We will try our best to make this paper list updated. If you notice some related
 #### 2023
 - [Bioinformatics] Title [[paper]](Link_to_paper)
 
-## Applications
-- [Nature Communications] Title [[paper]](Link_to_paper)
+## **LLMs specifically developed for psychiatry and mental health care**
+- [*EMNLP 2023*] *SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations*.  [[paper]](https://aclanthology.org/2023.findings-emnlp.83/)
 
 ## Data
 - [Nature Communications] Title [[paper]](Link_to_data)
@@ -32,4 +32,4 @@ Please consider citing our [perspective paper](Link_to_paper) if you find this r
 ```
 @article{citation_here
 }
-``` 
+```
