@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/stars/RoarBoil/Awesome-Large-Language-Model-in-Psychiatry?color=yellow&label=Star" alt="Stars" >
     <img src="https://img.shields.io/github/forks/RoarBoil/Awesome-Large-Language-Model-in-Psychiatry?color=blue&label=Fork" alt="Forks" >
 </p>
-![](pics/index.img)
+![](pics/index.png)
 
 This repository contains a paper list related to **Large Language Models in Psychiatry**. For more details, please refer to our perspective paper : [Large Language Models in Psychiatry: Current Applications, Limitations, and Future Scope](https://www.biorxiv.org/content/10.1101/2023.11.04.565642v1)
 
