@@ -20,41 +20,88 @@ We will try our best to make this paper list updated. If you notice some related
 # Papers
 
 ## **LLMs specifically developed for psychiatry and mental health care**
-- [*EMNLP 2023*] *SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations*.  [[paper]](https://aclanthology.org/2023.findings-emnlp.83/)
-- [*Arxiv*] *Chatcounselor: A large language models for mental health support*.  [[paper]](https://arxiv.org/abs/2309.15461)
-- [*Arxiv*] *Psy-llm: Scaling up global mental health psychological services with ai-based large language models*  [[paper]](https://arxiv.org/abs/2307.11991)
-- [*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*] *Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data.*  [[paper]](https://dl.acm.org/doi/abs/10.1145/3643540)
-- [*Arxiv*] *Mentalllama: Interpretable mental health analysis on social media with large language models.*   [[paper]](https://arxiv.org/abs/2309.13567)
+- [*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*] *Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data.*  [[paper]](https://dl.acm.org/doi/abs/10.1145/3643540) [2024.3]
+
+- [*Arxiv*] *Mentalllama: Interpretable mental health analysis on social media with large language models.*   [[paper]](https://arxiv.org/abs/2309.13567) [2024.2]
+
+- [*EMNLP 2023*] *SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations*.  [[paper]](https://aclanthology.org/2023.findings-emnlp.83/) [2023.12]
+
+- [*Arxiv*] *Chatcounselor: A large language models for mental health support*.  [[paper]](https://arxiv.org/abs/2309.15461) [2023.9]
+
+- [*Arxiv*] *Psy-llm: Scaling up global mental health psychological services with ai-based large language models*  [[paper]](https://arxiv.org/abs/2307.11991) [2023.7]
+
+  **The date following the model represents the  most recent publication of the model**
 
 ## **Medical LLMs with psychiatry knowledge**
-- [Patterns] *Can large language models reason about medical questions?* [[paper]](https://www.cell.com/patterns/fulltext/S2666-3899(24)00042-4)
-- [Arxiv] *Galactica: A large language model for science* [[paper]](https://arxiv.org/abs/2211.09085)
-- [Nature] *Large language models encode clinical knowledge* [[paper]](https://www.nature.com/articles/s41586-023-06291-2)
-- [Arxiv] *Capabilities of gpt-4 on medical challenge problems* [[paper]](https://arxiv.org/abs/2303.13375)
-- [Arxiv] *Chatdoctor: A medical chat model fine-tuned on llama model using medical domain knowledge* [[paper]](https://arxiv.org/abs/2303.14070)
-- [Arxiv] *Doctorglm: Fine-tuning your chinese doctor is not a herculean task* [[paper]](https://arxiv.org/abs/2304.01097)
-- [Arxiv] *MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data* [[paper]](https://arxiv.org/abs/2304.08247)
-- [Arxiv] *Huatuo: Tuning llama model with chinese medical knowledge* [[paper]](https://arxiv.org/abs/2304.06975)
-- [Arxiv] *Pmc-llama: Further finetuning llama on medical papers* [[paper]](https://arxiv.org/abs/2304.14454)
-- [Arxiv] *Bianque: Balancing the questioning and suggestion ability of health llms with multi-turn health conversations polished by chatgpt* [[paper]](https://arxiv.org/abs/2310.15896)
-- [Arxiv] *Towards expert-level medical question answering with large language models* [[paper]](https://arxiv.org/abs/2305.09617)
-- [NPJ Digital Medicine] *A Study of Generative Large Language Model for Medical Research and Healthcare* [[paper]](https://www.nature.com/articles/s41746-023-00958-w)
-- [Arxiv] *HuatuoGPT, towards Taming Language Model to Be a Doctor* [[paper]](https://arxiv.org/abs/2306.09968)
-- [Arxiv] *ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation* [[paper]](https://arxiv.org/abs/2306.09968)
-- [Github] *ChatGLM-Med: 基于中文医学知识的ChatGLM模型微调* [[paper]](https://github.com/SCIR-HI/Med-ChatGLM)
-- [Github] *ChatMed: A Chinese Medical Large Language Model.* [[paper]](https://github.com/michael-wzhu/ChatMed)
-- [Github] *ShenNong-TCM: A Traditional Chinese Medicine Large Language Model.* [[paper]](https://github.com/michael-wzhu/ShenNong-TCM-LLM)
-- [Github] *CareGPT: Medical LLM, Open Source Driven for a Healthy Future* [[paper]](https://github.com/WangRongsheng/CareGPT)
-- [Arxiv] *Towards accurate differential diagnosis with large language models* [[paper]](https://arxiv.org/abs/2312.00164)
-- [Arxiv] *MEDITRON-70B: Scaling Medical Pretraining for Large Language Models.* [[paper]](https://arxiv.org/abs/2311.16079)
-- [Journal of the American Medical Informatics Association] *Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks* [[paper]](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocae037/7616487)
-- [Arxiv] *HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs.* [[paper]](https://arxiv.org/abs/2311.09774)
-- [Arxiv] *Alpacare: Instruction-tuned large language models for medical application.* [[paper]](https://arxiv.org/abs/2310.14558)
-- [Arxiv] *Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes.* [[paper]](https://arxiv.org/abs/2309.00237)
-- [AAAI] *Zhongjing: Enhancing the chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29907)
-- [Arxiv] *Disc-medllm: Bridging general large language models and real-world medical consultation* [[paper]](https://arxiv.org/abs/2308.14346)
-- [Arxiv] *Qilin-med: Multi-stage knowledge injection advanced medical large language model.* [[paper]](https://arxiv.org/abs/2310.09089)
-- [Arxiv] *Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding* [[paper]](https://arxiv.org/abs/2305.12031)
+### 	***2024***
+
+- [Arxiv] *Qilin-med: Multi-stage knowledge injection advanced medical large language model.* [[paper]](https://arxiv.org/abs/2310.09089) [2024.4]
+
+- [AAAI] *Zhongjing: Enhancing the chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29907) [2024.3]
+
+- [Patterns] *Can large language models reason about medical questions?* [[paper]](https://www.cell.com/patterns/fulltext/S2666-3899(24)00042-4) [2024.3]
+
+- [Journal of the American Medical Informatics Association] *Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks* [[paper]](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocae037/7616487) [2024.2]
+
+  
+
+  ### ***2023***
+
+- [Arxiv] *Bianque: Balancing the questioning and suggestion ability of health llms with multi-turn health conversations polished by chatgpt* [[paper]](https://arxiv.org/abs/2310.15896) [2023.12]
+
+- [Github] *CareGPT: Medical LLM, Open Source Driven for a Healthy Future* [[paper]](https://github.com/WangRongsheng/CareGPT) [2023.12]
+
+- [Arxiv] *MEDITRON-70B: Scaling Medical Pretraining for Large Language Models.* [[paper]](https://arxiv.org/abs/2311.16079) [2023.11]
+
+- [Arxiv] *HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs.* [[paper]](https://arxiv.org/abs/2311.09774) [2023.11]
+
+- [Arxiv] *Towards accurate differential diagnosis with large language models* [[paper]](https://arxiv.org/abs/2312.00164) [2023.11]
+
+- [NPJ Digital Medicine] *A Study of Generative Large Language Model for Medical Research and Healthcare* [[paper]](https://www.nature.com/articles/s41746-023-00958-w) [2023.11]
+
+- [Arxiv] *Alpacare: Instruction-tuned large language models for medical application.* [[paper]](https://arxiv.org/abs/2310.14558) [2023.10]
+
+- [Arxiv] *MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data* [[paper]](https://arxiv.org/abs/2304.08247) [2023.10]
+
+- [Arxiv] *Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes.* [[paper]](https://arxiv.org/abs/2309.00237) [2023.9]
+
+- [Arxiv] *Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding* [[paper]](https://arxiv.org/abs/2305.12031) [2023.8]
+
+- [Arxiv] *Pmc-llama: Further finetuning llama on medical papers* [[paper]](https://arxiv.org/abs/2304.14454) [2023.8]
+
+- [Arxiv] *Disc-medllm: Bridging general large language models and real-world medical consultation* [[paper]](https://arxiv.org/abs/2308.14346) [2023.8]
+
+- [Github] *ShenNong-TCM: A Traditional Chinese Medicine Large Language Model.* [[paper]](https://github.com/michael-wzhu/ShenNong-TCM-LLM) [2023.8]
+
+- [Github] *ChatMed: A Chinese Medical Large Language Model.* [[paper]](https://github.com/michael-wzhu/ChatMed) [2023.7]
+
+- [Nature] *Large language models encode clinical knowledge* [[paper]](https://www.nature.com/articles/s41586-023-06291-2) [2023.7]
+
+- [Arxiv] *ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation* [[paper]](https://arxiv.org/abs/2306.09968) [2023.6]
+
+- [Arxiv] *HuatuoGPT, towards Taming Language Model to Be a Doctor* [[paper]](https://arxiv.org/abs/2306.09968) [2023.6]
+
+- [Arxiv] *Huatuo: Tuning llama model with chinese medical knowledge* [[paper]](https://arxiv.org/abs/2304.06975) [2023.6]
+
+- [Arxiv] *Chatdoctor: A medical chat model fine-tuned on llama model using medical domain knowledge* [[paper]](https://arxiv.org/abs/2303.14070) [2023.6]
+
+- [Arxiv] *Doctorglm: Fine-tuning your chinese doctor is not a herculean task* [[paper]](https://arxiv.org/abs/2304.01097) [2023.6]
+
+- [Github] *ChatGLM-Med: 基于中文医学知识的ChatGLM模型微调* [[paper]](https://github.com/SCIR-HI/Med-ChatGLM) [2023.5]
+
+- [Arxiv] *Towards expert-level medical question answering with large language models* [[paper]](https://arxiv.org/abs/2305.09617) [2023.5]
+
+- [Arxiv] *Capabilities of gpt-4 on medical challenge problems* [[paper]](https://arxiv.org/abs/2303.13375) [2023.4]
+
+  
+
+  ### ***2022***
+
+- [Arxiv] *Galactica: A large language model for science* [[paper]](https://arxiv.org/abs/2211.09085) [2022.11]
+
+  
+
+  **The date following the model represents the  most recent publication of the model**
 
 ## Potential training corpus for psychiatric LLMs
 - [Private] *UF Health IDR* [[link]](https://idr.ufhealth.org)
