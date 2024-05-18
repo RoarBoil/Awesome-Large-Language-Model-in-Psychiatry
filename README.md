@@ -33,17 +33,17 @@ We will try our best to make this paper list updated. If you notice some related
   **The date following the model represents the  most recent publication of the model**
 
 ## **Medical LLMs with psychiatry knowledge**
-### 	***2024***
+
+
+### ***	2024***
 
 - [Arxiv] *Qilin-med: Multi-stage knowledge injection advanced medical large language model.* [[paper]](https://arxiv.org/abs/2310.09089) [2024.4]
 
-- [AAAI] *Zhongjing: Enhancing the chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29907) [2024.3]
+- [AAAI] *Zhongjing: Enhancing the chinese medical capabilities of large language model through expert feedback and real-world multi-sturn dialogue* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29907) [2024.3]
 
 - [Patterns] *Can large language models reason about medical questions?* [[paper]](https://www.cell.com/patterns/fulltext/S2666-3899(24)00042-4) [2024.3]
 
 - [Journal of the American Medical Informatics Association] *Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks* [[paper]](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocae037/7616487) [2024.2]
-
-  
 
   ### ***2023***
 
