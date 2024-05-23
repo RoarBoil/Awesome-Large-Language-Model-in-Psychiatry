@@ -2,8 +2,6 @@
 <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
     <!-- <a href="https://"><img src="https://img.shields.io/badge/-Website-grey?logo=svelte&logoColor=white" alt="Website"></a> -->
-    <img src="https://img.shields.io/github/stars/RoarBoil/Awesome-Large-Language-Model-in-Psychiatry?color=yellow&label=Star" alt="Stars" >
-    <img src="https://img.shields.io/github/forks/RoarBoil/Awesome-Large-Language-Model-in-Psychiatry?color=blue&label=Fork" alt="Forks" >
 </p>
 
 ![](pics/index.png)
